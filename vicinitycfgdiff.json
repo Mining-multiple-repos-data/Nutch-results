@@ -1,0 +1,5058 @@
+{
+    "edges": {
+        "added": [
+            {
+                "frequency": 1,
+                "source": "TNM9",
+                "target": "TNM14"
+            },
+            {
+                "frequency": 1,
+                "source": "TNM11",
+                "target": "TNM14"
+            },
+            {
+                "frequency": 25,
+                "source": "T1129",
+                "target": "T1112"
+            },
+            {
+                "frequency": 300,
+                "source": "TNS0",
+                "target": "T1123"
+            },
+            {
+                "frequency": 1,
+                "source": "T1123",
+                "target": "TNS3"
+            },
+            {
+                "frequency": 5,
+                "source": "T1123",
+                "target": "T898"
+            },
+            {
+                "frequency": 2,
+                "source": "TNM14",
+                "target": "T1112"
+            },
+            {
+                "frequency": 48,
+                "source": "T890",
+                "target": "T891"
+            },
+            {
+                "frequency": 3,
+                "source": "T869",
+                "target": "T1125"
+            },
+            {
+                "frequency": 45,
+                "source": "T891",
+                "target": "T890"
+            },
+            {
+                "frequency": 2,
+                "source": "T1126",
+                "target": "T880"
+            },
+            {
+                "frequency": 342,
+                "source": "T1112",
+                "target": "T1135"
+            },
+            {
+                "frequency": 601,
+                "source": "T1115",
+                "target": "TNS3"
+            },
+            {
+                "frequency": 26,
+                "source": "T1131",
+                "target": "T1123"
+            },
+            {
+                "frequency": 2,
+                "source": "T890",
+                "target": "T1123"
+            },
+            {
+                "frequency": 49,
+                "source": "T1126",
+                "target": "T870"
+            },
+            {
+                "frequency": 2,
+                "source": "T1117",
+                "target": "T870"
+            },
+            {
+                "frequency": 301,
+                "source": "TNS0",
+                "target": "T1115"
+            },
+            {
+                "frequency": 8,
+                "source": "T10",
+                "target": "T870"
+            },
+            {
+                "frequency": 1,
+                "source": "T1123",
+                "target": "T1129"
+            },
+            {
+                "frequency": 1,
+                "source": "T1135",
+                "target": "T1135"
+            },
+            {
+                "frequency": 5,
+                "source": "T119",
+                "target": "T1129"
+            },
+            {
+                "frequency": 1,
+                "source": "T1133",
+                "target": "TNM14"
+            },
+            {
+                "frequency": 3,
+                "source": "T1117",
+                "target": "TNM1"
+            },
+            {
+                "frequency": 1,
+                "source": "T1125",
+                "target": "T1112"
+            },
+            {
+                "frequency": 1,
+                "source": "T880",
+                "target": "T1117"
+            },
+            {
+                "frequency": 1,
+                "source": "T119",
+                "target": "T870"
+            },
+            {
+                "frequency": 6,
+                "source": "T560",
+                "target": "T1121"
+            },
+            {
+                "frequency": 602,
+                "source": "TNS1",
+                "target": "TNS5"
+            },
+            {
+                "frequency": 2,
+                "source": "T1112",
+                "target": "T1125"
+            },
+            {
+                "frequency": 12,
+                "source": "T1117",
+                "target": "T1112"
+            },
+            {
+                "frequency": 1,
+                "source": "T1121",
+                "target": "TNM7"
+            },
+            {
+                "frequency": 5,
+                "source": "T889",
+                "target": "T890"
+            },
+            {
+                "frequency": 4,
+                "source": "T1125",
+                "target": "T1135"
+            },
+            {
+                "frequency": 10,
+                "source": "T1123",
+                "target": "T1112"
+            },
+            {
+                "frequency": 1,
+                "source": "T883",
+                "target": "T1131"
+            },
+            {
+                "frequency": 3,
+                "source": "T1135",
+                "target": "T1126"
+            },
+            {
+                "frequency": 1,
+                "source": "TNM3",
+                "target": "TNM4"
+            },
+            {
+                "frequency": 34,
+                "source": "T1112",
+                "target": "T1131"
+            },
+            {
+                "frequency": 1204,
+                "source": "TNS0",
+                "target": "TNS0"
+            },
+            {
+                "frequency": 6,
+                "source": "T1121",
+                "target": "T877"
+            },
+            {
+                "frequency": 1,
+                "source": "T1123",
+                "target": "T870"
+            },
+            {
+                "frequency": 3,
+                "source": "T879",
+                "target": "T1125"
+            },
+            {
+                "frequency": 77,
+                "source": "T870",
+                "target": "T1125"
+            },
+            {
+                "frequency": 1,
+                "source": "T1112",
+                "target": "T10"
+            },
+            {
+                "frequency": 1,
+                "source": "T1115",
+                "target": "T1123"
+            },
+            {
+                "frequency": 3,
+                "source": "T1129",
+                "target": "T870"
+            },
+            {
+                "frequency": 2,
+                "source": "T1112",
+                "target": "T1138"
+            },
+            {
+                "frequency": 1,
+                "source": "TNM6",
+                "target": "TNM7"
+            },
+            {
+                "frequency": 1,
+                "source": "T10",
+                "target": "T869"
+            },
+            {
+                "frequency": 1,
+                "source": "T889",
+                "target": "T898"
+            },
+            {
+                "frequency": 6,
+                "source": "TNM10",
+                "target": "T1121"
+            },
+            {
+                "frequency": 5,
+                "source": "T883",
+                "target": "T889"
+            },
+            {
+                "frequency": 35,
+                "source": "T1135",
+                "target": "T1112"
+            },
+            {
+                "frequency": 1,
+                "source": "TNM4",
+                "target": "TNM6"
+            },
+            {
+                "frequency": 4,
+                "source": "T880",
+                "target": "TNM7"
+            },
+            {
+                "frequency": 1,
+                "source": "TNM5",
+                "target": "TNM5"
+            },
+            {
+                "frequency": 602,
+                "source": "TNS2",
+                "target": "TNS0"
+            },
+            {
+                "frequency": 602,
+                "source": "TNS3",
+                "target": "TNS4"
+            },
+            {
+                "frequency": 1,
+                "source": "T119",
+                "target": "TNM16"
+            },
+            {
+                "frequency": 1,
+                "source": "T1138",
+                "target": "T883"
+            },
+            {
+                "frequency": 10,
+                "source": "T1121",
+                "target": "T1121"
+            },
+            {
+                "frequency": 1,
+                "source": "TNM9",
+                "target": "T1138"
+            },
+            {
+                "frequency": 13,
+                "source": "T883",
+                "target": "T870"
+            },
+            {
+                "frequency": 3,
+                "source": "T1135",
+                "target": "T883"
+            },
+            {
+                "frequency": 1,
+                "source": "T10",
+                "target": "T1117"
+            },
+            {
+                "frequency": 1,
+                "source": "T586",
+                "target": "T560"
+            },
+            {
+                "frequency": 3,
+                "source": "T1126",
+                "target": "T1131"
+            },
+            {
+                "frequency": 602,
+                "source": "TNS5",
+                "target": "TNS2"
+            },
+            {
+                "frequency": 233,
+                "source": "T1126",
+                "target": "T1112"
+            },
+            {
+                "frequency": 1,
+                "source": "T1125",
+                "target": "T880"
+            },
+            {
+                "frequency": 5,
+                "source": "TNM11",
+                "target": "T1135"
+            },
+            {
+                "frequency": 2,
+                "source": "T1133",
+                "target": "T1112"
+            },
+            {
+                "frequency": 1,
+                "source": "T1135",
+                "target": "T1123"
+            },
+            {
+                "frequency": 1,
+                "source": "T1119",
+                "target": "T1135"
+            },
+            {
+                "frequency": 44,
+                "source": "T1126",
+                "target": "T1121"
+            },
+            {
+                "frequency": 4,
+                "source": "T1131",
+                "target": "T1124"
+            },
+            {
+                "frequency": 1,
+                "source": "T1135",
+                "target": "T1117"
+            },
+            {
+                "frequency": 602,
+                "source": "TNS4",
+                "target": "TNS1"
+            },
+            {
+                "frequency": 55,
+                "source": "T883",
+                "target": "T1112"
+            },
+            {
+                "frequency": 1,
+                "source": "T1123",
+                "target": "T1131"
+            },
+            {
+                "frequency": 47,
+                "source": "T1121",
+                "target": "T1125"
+            },
+            {
+                "frequency": 1,
+                "source": "T880",
+                "target": "T1126"
+            },
+            {
+                "frequency": 5,
+                "source": "T119",
+                "target": "T1112"
+            },
+            {
+                "frequency": 1,
+                "source": "T10",
+                "target": "T1129"
+            },
+            {
+                "frequency": 2,
+                "source": "T1121",
+                "target": "T879"
+            },
+            {
+                "frequency": 2,
+                "source": "T1126",
+                "target": "T869"
+            },
+            {
+                "frequency": 1,
+                "source": "TNM11",
+                "target": "T1112"
+            },
+            {
+                "frequency": 1,
+                "source": "TNS0",
+                "target": "T889"
+            }
+        ],
+        "deleted": [
+            {
+                "frequency": 11,
+                "source": "T1111",
+                "target": "T1111"
+            },
+            {
+                "frequency": 6,
+                "source": "T880",
+                "target": "T1125"
+            },
+            {
+                "frequency": 277,
+                "source": "T1106",
+                "target": "T1107"
+            },
+            {
+                "frequency": 1,
+                "source": "T119",
+                "target": "TNM11"
+            },
+            {
+                "frequency": 1,
+                "source": "T1126",
+                "target": "TNM8"
+            },
+            {
+                "frequency": 38,
+                "source": "T1111",
+                "target": "T1125"
+            },
+            {
+                "frequency": 277,
+                "source": "T1103",
+                "target": "T1104"
+            },
+            {
+                "frequency": 1,
+                "source": "TNM2",
+                "target": "T1126"
+            },
+            {
+                "frequency": 2,
+                "source": "TNM3",
+                "target": "T1125"
+            },
+            {
+                "frequency": 1,
+                "source": "T1125",
+                "target": "T1129"
+            },
+            {
+                "frequency": 277,
+                "source": "T1115",
+                "target": "T1103"
+            },
+            {
+                "frequency": 1,
+                "source": "T1124",
+                "target": "T1124"
+            },
+            {
+                "frequency": 1,
+                "source": "TNM11",
+                "target": "T1129"
+            },
+            {
+                "frequency": 1,
+                "source": "T651",
+                "target": "TNM19"
+            },
+            {
+                "frequency": 264,
+                "source": "T1109",
+                "target": "T1123"
+            },
+            {
+                "frequency": 2,
+                "source": "TNM9",
+                "target": "T1117"
+            },
+            {
+                "frequency": 1,
+                "source": "T553",
+                "target": "T553"
+            },
+            {
+                "frequency": 56,
+                "source": "T1126",
+                "target": "T891"
+            },
+            {
+                "frequency": 277,
+                "source": "T1105",
+                "target": "T1106"
+            },
+            {
+                "frequency": 1,
+                "source": "T1129",
+                "target": "T1124"
+            },
+            {
+                "frequency": 1,
+                "source": "TNM13",
+                "target": "T883"
+            },
+            {
+                "frequency": 2,
+                "source": "T1125",
+                "target": "TNM7"
+            },
+            {
+                "frequency": 6,
+                "source": "T892",
+                "target": "T898"
+            },
+            {
+                "frequency": 4,
+                "source": "TNM11",
+                "target": "T883"
+            },
+            {
+                "frequency": 1,
+                "source": "TNM6",
+                "target": "TNM6"
+            },
+            {
+                "frequency": 2,
+                "source": "T1123",
+                "target": "T1127"
+            },
+            {
+                "frequency": 1,
+                "source": "T883",
+                "target": "TNM15"
+            },
+            {
+                "frequency": 1,
+                "source": "T1125",
+                "target": "TNM3"
+            },
+            {
+                "frequency": 95,
+                "source": "T891",
+                "target": "T1125"
+            },
+            {
+                "frequency": 1,
+                "source": "T1117",
+                "target": "T1128"
+            },
+            {
+                "frequency": 4,
+                "source": "T1111",
+                "target": "TNM7"
+            },
+            {
+                "frequency": 1,
+                "source": "TNM2",
+                "target": "TNM4"
+            },
+            {
+                "frequency": 3,
+                "source": "TNM11",
+                "target": "T1117"
+            },
+            {
+                "frequency": 6,
+                "source": "T883",
+                "target": "T892"
+            },
+            {
+                "frequency": 1,
+                "source": "TNM7",
+                "target": "T1126"
+            },
+            {
+                "frequency": 6,
+                "source": "T560",
+                "target": "T1111"
+            },
+            {
+                "frequency": 1,
+                "source": "T1138",
+                "target": "T1117"
+            },
+            {
+                "frequency": 277,
+                "source": "T1108",
+                "target": "T1109"
+            },
+            {
+                "frequency": 1,
+                "source": "T1129",
+                "target": "TNM11"
+            },
+            {
+                "frequency": 11,
+                "source": "T883",
+                "target": "T1124"
+            },
+            {
+                "frequency": 1,
+                "source": "T1133",
+                "target": "T1133"
+            },
+            {
+                "frequency": 1,
+                "source": "TNM8",
+                "target": "T1125"
+            },
+            {
+                "frequency": 3,
+                "source": "T1109",
+                "target": "TNM1"
+            },
+            {
+                "frequency": 5,
+                "source": "T1111",
+                "target": "T1126"
+            },
+            {
+                "frequency": 1,
+                "source": "TNM6",
+                "target": "T1126"
+            },
+            {
+                "frequency": 6,
+                "source": "T1111",
+                "target": "T877"
+            },
+            {
+                "frequency": 1,
+                "source": "TNM2",
+                "target": "T879"
+            },
+            {
+                "frequency": 277,
+                "source": "T1104",
+                "target": "T1105"
+            },
+            {
+                "frequency": 5,
+                "source": "TNM2",
+                "target": "T1111"
+            },
+            {
+                "frequency": 6,
+                "source": "TNM10",
+                "target": "T1111"
+            },
+            {
+                "frequency": 9,
+                "source": "T10",
+                "target": "T891"
+            },
+            {
+                "frequency": 1,
+                "source": "T1129",
+                "target": "T1126"
+            },
+            {
+                "frequency": 1,
+                "source": "TNM3",
+                "target": "TNM7"
+            },
+            {
+                "frequency": 1,
+                "source": "TNM5",
+                "target": "TNM6"
+            },
+            {
+                "frequency": 1,
+                "source": "T1111",
+                "target": "T879"
+            },
+            {
+                "frequency": 1,
+                "source": "TNM19",
+                "target": "T587"
+            },
+            {
+                "frequency": 277,
+                "source": "T1107",
+                "target": "T1108"
+            },
+            {
+                "frequency": 1,
+                "source": "T1129",
+                "target": "T1128"
+            },
+            {
+                "frequency": 5,
+                "source": "T1109",
+                "target": "T1125"
+            },
+            {
+                "frequency": 34,
+                "source": "T1126",
+                "target": "T1111"
+            },
+            {
+                "frequency": 3,
+                "source": "T1117",
+                "target": "T891"
+            },
+            {
+                "frequency": 1,
+                "source": "T10",
+                "target": "T883"
+            },
+            {
+                "frequency": 4,
+                "source": "T1129",
+                "target": "T891"
+            },
+            {
+                "frequency": 1,
+                "source": "T1125",
+                "target": "TNM6"
+            },
+            {
+                "frequency": 24,
+                "source": "T883",
+                "target": "T891"
+            },
+            {
+                "frequency": 360,
+                "source": "T1109",
+                "target": "T1109"
+            },
+            {
+                "frequency": 1,
+                "source": "T1111",
+                "target": "TNM4"
+            },
+            {
+                "frequency": 4,
+                "source": "T1125",
+                "target": "T1111"
+            },
+            {
+                "frequency": 3,
+                "source": "T1129",
+                "target": "TNM1"
+            },
+            {
+                "frequency": 5,
+                "source": "T1109",
+                "target": "T1115"
+            },
+            {
+                "frequency": 1,
+                "source": "T1133",
+                "target": "T1129"
+            }
+        ],
+        "unchanged": [
+            {
+                "oldfrequency": 3,
+                "newoldfrequency": 3,
+                "source": "TNM9",
+                "target": "T1127"
+            },
+            {
+                "oldfrequency": 2,
+                "newoldfrequency": 1,
+                "source": "T1123",
+                "target": "T1115"
+            },
+            {
+                "oldfrequency": 4,
+                "newoldfrequency": 3,
+                "source": "T1126",
+                "target": "T1124"
+            },
+            {
+                "oldfrequency": 6,
+                "newoldfrequency": 6,
+                "source": "T594",
+                "target": "T595"
+            },
+            {
+                "oldfrequency": 2,
+                "newoldfrequency": 6,
+                "source": "T1126",
+                "target": "T1128"
+            },
+            {
+                "oldfrequency": 830,
+                "newoldfrequency": 3232,
+                "source": "T1135",
+                "target": "T1125"
+            },
+            {
+                "oldfrequency": 1,
+                "newoldfrequency": 1,
+                "source": "T698",
+                "target": "T699"
+            },
+            {
+                "oldfrequency": 6,
+                "newoldfrequency": 9,
+                "source": "T1126",
+                "target": "TNM11"
+            },
+            {
+                "oldfrequency": 5,
+                "newoldfrequency": 5,
+                "source": "TNM11",
+                "target": "T1125"
+            },
+            {
+                "oldfrequency": 135,
+                "newoldfrequency": 126,
+                "source": "T1117",
+                "target": "T1125"
+            },
+            {
+                "oldfrequency": 6,
+                "newoldfrequency": 10,
+                "source": "T1129",
+                "target": "T119"
+            },
+            {
+                "oldfrequency": 6,
+                "newoldfrequency": 6,
+                "source": "T801",
+                "target": "T803"
+            },
+            {
+                "oldfrequency": 11,
+                "newoldfrequency": 14,
+                "source": "TNM9",
+                "target": "TNM9"
+            },
+            {
+                "oldfrequency": 4452,
+                "newoldfrequency": 3911,
+                "source": "T651",
+                "target": "T590"
+            },
+            {
+                "oldfrequency": 6632,
+                "newoldfrequency": 8992,
+                "source": "T1125",
+                "target": "T1126"
+            },
+            {
+                "oldfrequency": 22,
+                "newoldfrequency": 18,
+                "source": "T260",
+                "target": "T587"
+            },
+            {
+                "oldfrequency": 40,
+                "newoldfrequency": 37,
+                "source": "T592",
+                "target": "T593"
+            },
+            {
+                "oldfrequency": 6,
+                "newoldfrequency": 6,
+                "source": "T796",
+                "target": "T797"
+            },
+            {
+                "oldfrequency": 57,
+                "newoldfrequency": 51,
+                "source": "T590",
+                "target": "T592"
+            },
+            {
+                "oldfrequency": 59,
+                "newoldfrequency": 52,
+                "source": "T883",
+                "target": "T119"
+            },
+            {
+                "oldfrequency": 19,
+                "newoldfrequency": 7,
+                "source": "T1123",
+                "target": "T119"
+            },
+            {
+                "oldfrequency": 184,
+                "newoldfrequency": 452,
+                "source": "T883",
+                "target": "T1135"
+            },
+            {
+                "oldfrequency": 3,
+                "newoldfrequency": 2,
+                "source": "T119",
+                "target": "TNM14"
+            },
+            {
+                "oldfrequency": 23,
+                "newoldfrequency": 96,
+                "source": "T1123",
+                "target": "T1135"
+            },
+            {
+                "oldfrequency": 11,
+                "newoldfrequency": 9,
+                "source": "T592",
+                "target": "T586"
+            },
+            {
+                "oldfrequency": 1,
+                "newoldfrequency": 1,
+                "source": "T724",
+                "target": "T726"
+            },
+            {
+                "oldfrequency": 12,
+                "newoldfrequency": 12,
+                "source": "T1126",
+                "target": "TNM16"
+            },
+            {
+                "oldfrequency": 1,
+                "newoldfrequency": 1,
+                "source": "T10",
+                "target": "T560"
+            },
+            {
+                "oldfrequency": 33,
+                "newoldfrequency": 21,
+                "source": "T883",
+                "target": "T1127"
+            },
+            {
+                "oldfrequency": 1,
+                "newoldfrequency": 1,
+                "source": "T560",
+                "target": "T586"
+            },
+            {
+                "oldfrequency": 26,
+                "newoldfrequency": 15,
+                "source": "T883",
+                "target": "TNM14"
+            },
+            {
+                "oldfrequency": 1,
+                "newoldfrequency": 1,
+                "source": "TNM17",
+                "target": "T590"
+            },
+            {
+                "oldfrequency": 3,
+                "newoldfrequency": 1,
+                "source": "T1125",
+                "target": "T1123"
+            },
+            {
+                "oldfrequency": 2337,
+                "newoldfrequency": 2207,
+                "source": "T590",
+                "target": "T593"
+            },
+            {
+                "oldfrequency": 5,
+                "newoldfrequency": 5,
+                "source": "T804",
+                "target": "TNM10"
+            },
+            {
+                "oldfrequency": 297,
+                "newoldfrequency": 229,
+                "source": "T586",
+                "target": "T593"
+            },
+            {
+                "oldfrequency": 48,
+                "newoldfrequency": 39,
+                "source": "T883",
+                "target": "T1138"
+            },
+            {
+                "oldfrequency": 6,
+                "newoldfrequency": 6,
+                "source": "T10",
+                "target": "T10"
+            },
+            {
+                "oldfrequency": 2,
+                "newoldfrequency": 610,
+                "source": "T1131",
+                "target": "T1125"
+            },
+            {
+                "oldfrequency": 6,
+                "newoldfrequency": 6,
+                "source": "T722",
+                "target": "T723"
+            },
+            {
+                "oldfrequency": 39,
+                "newoldfrequency": 25,
+                "source": "T883",
+                "target": "T1129"
+            },
+            {
+                "oldfrequency": 6,
+                "newoldfrequency": 6,
+                "source": "T878",
+                "target": "T1117"
+            },
+            {
+                "oldfrequency": 6,
+                "newoldfrequency": 5,
+                "source": "T638",
+                "target": "T651"
+            },
+            {
+                "oldfrequency": 370,
+                "newoldfrequency": 3548,
+                "source": "T586",
+                "target": "T586"
+            },
+            {
+                "oldfrequency": 1,
+                "newoldfrequency": 1,
+                "source": "TNM13",
+                "target": "T1128"
+            },
+            {
+                "oldfrequency": 261,
+                "newoldfrequency": 291,
+                "source": "T1129",
+                "target": "T1125"
+            },
+            {
+                "oldfrequency": 64,
+                "newoldfrequency": 59,
+                "source": "T258",
+                "target": "T587"
+            },
+            {
+                "oldfrequency": 15,
+                "newoldfrequency": 18,
+                "source": "T1123",
+                "target": "T1138"
+            },
+            {
+                "oldfrequency": 3,
+                "newoldfrequency": 8,
+                "source": "T119",
+                "target": "T1138"
+            },
+            {
+                "oldfrequency": 4,
+                "newoldfrequency": 4,
+                "source": "TNM9",
+                "target": "T1125"
+            },
+            {
+                "oldfrequency": 3,
+                "newoldfrequency": 3,
+                "source": "T259",
+                "target": "TNM0"
+            },
+            {
+                "oldfrequency": 233,
+                "newoldfrequency": 221,
+                "source": "T651",
+                "target": "T259"
+            },
+            {
+                "oldfrequency": 1,
+                "newoldfrequency": 2,
+                "source": "T883",
+                "target": "T1126"
+            },
+            {
+                "oldfrequency": 162,
+                "newoldfrequency": 202,
+                "source": "T1126",
+                "target": "T119"
+            },
+            {
+                "oldfrequency": 1,
+                "newoldfrequency": 2,
+                "source": "T1125",
+                "target": "T883"
+            },
+            {
+                "oldfrequency": 6,
+                "newoldfrequency": 6,
+                "source": "T590",
+                "target": "T560"
+            },
+            {
+                "oldfrequency": 1,
+                "newoldfrequency": 1,
+                "source": "TNM7",
+                "target": "TNM7"
+            },
+            {
+                "oldfrequency": 1358,
+                "newoldfrequency": 2265,
+                "source": "T883",
+                "target": "T1123"
+            },
+            {
+                "oldfrequency": 16696,
+                "newoldfrequency": 13970,
+                "source": "T718",
+                "target": "T718"
+            },
+            {
+                "oldfrequency": 51,
+                "newoldfrequency": 39,
+                "source": "T1123",
+                "target": "TNM1"
+            },
+            {
+                "oldfrequency": 7,
+                "newoldfrequency": 1,
+                "source": "T1126",
+                "target": "TNM7"
+            },
+            {
+                "oldfrequency": 240,
+                "newoldfrequency": 164,
+                "source": "T586",
+                "target": "T651"
+            },
+            {
+                "oldfrequency": 22,
+                "newoldfrequency": 22,
+                "source": "T560",
+                "target": "T560"
+            },
+            {
+                "oldfrequency": 6,
+                "newoldfrequency": 6,
+                "source": "TNM10",
+                "target": "T795"
+            },
+            {
+                "oldfrequency": 6,
+                "newoldfrequency": 3,
+                "source": "T1129",
+                "target": "T10"
+            },
+            {
+                "oldfrequency": 1,
+                "newoldfrequency": 2,
+                "source": "T553",
+                "target": "T10"
+            },
+            {
+                "oldfrequency": 25,
+                "newoldfrequency": 16,
+                "source": "T592",
+                "target": "T651"
+            },
+            {
+                "oldfrequency": 484,
+                "newoldfrequency": 504,
+                "source": "T1123",
+                "target": "T1125"
+            },
+            {
+                "oldfrequency": 1,
+                "newoldfrequency": 1,
+                "source": "T694",
+                "target": "T695"
+            },
+            {
+                "oldfrequency": 5,
+                "newoldfrequency": 4,
+                "source": "T553",
+                "target": "T1125"
+            },
+            {
+                "oldfrequency": 1,
+                "newoldfrequency": 1,
+                "source": "T10",
+                "target": "T1125"
+            },
+            {
+                "oldfrequency": 25,
+                "newoldfrequency": 26,
+                "source": "T593",
+                "target": "T639"
+            },
+            {
+                "oldfrequency": 6,
+                "newoldfrequency": 4,
+                "source": "T1117",
+                "target": "T10"
+            },
+            {
+                "oldfrequency": 1,
+                "newoldfrequency": 2,
+                "source": "TNM13",
+                "target": "T1125"
+            },
+            {
+                "oldfrequency": 12,
+                "newoldfrequency": 12,
+                "source": "T709",
+                "target": "T10"
+            },
+            {
+                "oldfrequency": 1,
+                "newoldfrequency": 1,
+                "source": "T699",
+                "target": "T702"
+            },
+            {
+                "oldfrequency": 8,
+                "newoldfrequency": 8,
+                "source": "T119",
+                "target": "T119"
+            },
+            {
+                "oldfrequency": 5,
+                "newoldfrequency": 5,
+                "source": "T724",
+                "target": "T725"
+            },
+            {
+                "oldfrequency": 3,
+                "newoldfrequency": 2,
+                "source": "T593",
+                "target": "T560"
+            },
+            {
+                "oldfrequency": 445,
+                "newoldfrequency": 763,
+                "source": "T1126",
+                "target": "T1129"
+            },
+            {
+                "oldfrequency": 1,
+                "newoldfrequency": 1,
+                "source": "T259",
+                "target": "TNM17"
+            },
+            {
+                "oldfrequency": 41,
+                "newoldfrequency": 56,
+                "source": "TNM6",
+                "target": "TNM4"
+            },
+            {
+                "oldfrequency": 2,
+                "newoldfrequency": 2,
+                "source": "T1117",
+                "target": "T1126"
+            },
+            {
+                "oldfrequency": 6,
+                "newoldfrequency": 6,
+                "source": "T883",
+                "target": "T553"
+            },
+            {
+                "oldfrequency": 4,
+                "newoldfrequency": 1,
+                "source": "TNM9",
+                "target": "T1135"
+            },
+            {
+                "oldfrequency": 2,
+                "newoldfrequency": 2,
+                "source": "T1123",
+                "target": "T891"
+            },
+            {
+                "oldfrequency": 2,
+                "newoldfrequency": 4,
+                "source": "T1133",
+                "target": "T1135"
+            },
+            {
+                "oldfrequency": 13,
+                "newoldfrequency": 13,
+                "source": "T560",
+                "target": "T10"
+            },
+            {
+                "oldfrequency": 7,
+                "newoldfrequency": 10,
+                "source": "T1117",
+                "target": "T1138"
+            },
+            {
+                "oldfrequency": 87,
+                "newoldfrequency": 77,
+                "source": "T587",
+                "target": "T590"
+            },
+            {
+                "oldfrequency": 15,
+                "newoldfrequency": 5,
+                "source": "T119",
+                "target": "T1123"
+            },
+            {
+                "oldfrequency": 32,
+                "newoldfrequency": 31,
+                "source": "T883",
+                "target": "T1117"
+            },
+            {
+                "oldfrequency": 5,
+                "newoldfrequency": 4,
+                "source": "T1119",
+                "target": "T883"
+            },
+            {
+                "oldfrequency": 3,
+                "newoldfrequency": 3,
+                "source": "TNM0",
+                "target": "T590"
+            },
+            {
+                "oldfrequency": 869,
+                "newoldfrequency": 860,
+                "source": "T1126",
+                "target": "T883"
+            },
+            {
+                "oldfrequency": 1,
+                "newoldfrequency": 1,
+                "source": "TNM2",
+                "target": "TNM2"
+            },
+            {
+                "oldfrequency": 1094,
+                "newoldfrequency": 676,
+                "source": "T883",
+                "target": "T1125"
+            },
+            {
+                "oldfrequency": 2,
+                "newoldfrequency": 9,
+                "source": "T1129",
+                "target": "T1129"
+            },
+            {
+                "oldfrequency": 15,
+                "newoldfrequency": 15,
+                "source": "TNM16",
+                "target": "TNM9"
+            },
+            {
+                "oldfrequency": 1,
+                "newoldfrequency": 1,
+                "source": "T697",
+                "target": "TNM10"
+            },
+            {
+                "oldfrequency": 2,
+                "newoldfrequency": 601,
+                "source": "T1135",
+                "target": "T1131"
+            },
+            {
+                "oldfrequency": 3,
+                "newoldfrequency": 1,
+                "source": "T1123",
+                "target": "T1126"
+            },
+            {
+                "oldfrequency": 6,
+                "newoldfrequency": 6,
+                "source": "T1117",
+                "target": "T560"
+            },
+            {
+                "oldfrequency": 28,
+                "newoldfrequency": 49,
+                "source": "TNM2",
+                "target": "TNM7"
+            },
+            {
+                "oldfrequency": 6,
+                "newoldfrequency": 3,
+                "source": "T879",
+                "target": "T880"
+            },
+            {
+                "oldfrequency": 4,
+                "newoldfrequency": 4,
+                "source": "T586",
+                "target": "T639"
+            },
+            {
+                "oldfrequency": 6,
+                "newoldfrequency": 6,
+                "source": "T797",
+                "target": "T798"
+            },
+            {
+                "oldfrequency": 49,
+                "newoldfrequency": 48,
+                "source": "T10",
+                "target": "T1135"
+            },
+            {
+                "oldfrequency": 22,
+                "newoldfrequency": 18,
+                "source": "T259",
+                "target": "T260"
+            },
+            {
+                "oldfrequency": 6,
+                "newoldfrequency": 6,
+                "source": "T596",
+                "target": "TNM10"
+            },
+            {
+                "oldfrequency": 6,
+                "newoldfrequency": 6,
+                "source": "T10",
+                "target": "T730"
+            },
+            {
+                "oldfrequency": 548,
+                "newoldfrequency": 399,
+                "source": "T590",
+                "target": "T586"
+            },
+            {
+                "oldfrequency": 29,
+                "newoldfrequency": 89,
+                "source": "T1117",
+                "target": "T1135"
+            },
+            {
+                "oldfrequency": 19,
+                "newoldfrequency": 11,
+                "source": "T586",
+                "target": "T592"
+            },
+            {
+                "oldfrequency": 41,
+                "newoldfrequency": 56,
+                "source": "TNM7",
+                "target": "TNM8"
+            },
+            {
+                "oldfrequency": 6,
+                "newoldfrequency": 6,
+                "source": "T595",
+                "target": "TNM10"
+            },
+            {
+                "oldfrequency": 6,
+                "newoldfrequency": 6,
+                "source": "T651",
+                "target": "T770"
+            },
+            {
+                "oldfrequency": 6,
+                "newoldfrequency": 6,
+                "source": "T731",
+                "target": "T560"
+            },
+            {
+                "oldfrequency": 522,
+                "newoldfrequency": 569,
+                "source": "T1126",
+                "target": "T1123"
+            },
+            {
+                "oldfrequency": 2,
+                "newoldfrequency": 1,
+                "source": "T1129",
+                "target": "TNM16"
+            },
+            {
+                "oldfrequency": 2,
+                "newoldfrequency": 1,
+                "source": "TNM13",
+                "target": "T1117"
+            },
+            {
+                "oldfrequency": 60,
+                "newoldfrequency": 67,
+                "source": "T1126",
+                "target": "TNM14"
+            },
+            {
+                "oldfrequency": 18,
+                "newoldfrequency": 18,
+                "source": "T710",
+                "target": "T708"
+            },
+            {
+                "oldfrequency": 8,
+                "newoldfrequency": 8,
+                "source": "T1128",
+                "target": "T1125"
+            },
+            {
+                "oldfrequency": 1,
+                "newoldfrequency": 1,
+                "source": "T695",
+                "target": "T696"
+            },
+            {
+                "oldfrequency": 1,
+                "newoldfrequency": 2,
+                "source": "T1117",
+                "target": "TNM14"
+            },
+            {
+                "oldfrequency": 1,
+                "newoldfrequency": 1,
+                "source": "TNM8",
+                "target": "TNM8"
+            },
+            {
+                "oldfrequency": 1,
+                "newoldfrequency": 1,
+                "source": "T804",
+                "target": "TEnd"
+            },
+            {
+                "oldfrequency": 6,
+                "newoldfrequency": 6,
+                "source": "T894",
+                "target": "TNM10"
+            },
+            {
+                "oldfrequency": 64,
+                "newoldfrequency": 59,
+                "source": "T651",
+                "target": "T258"
+            },
+            {
+                "oldfrequency": 125,
+                "newoldfrequency": 116,
+                "source": "T1126",
+                "target": "T1127"
+            },
+            {
+                "oldfrequency": 2,
+                "newoldfrequency": 2,
+                "source": "TNM15",
+                "target": "T1127"
+            },
+            {
+                "oldfrequency": 8,
+                "newoldfrequency": 3,
+                "source": "T1125",
+                "target": "T1125"
+            },
+            {
+                "oldfrequency": 458,
+                "newoldfrequency": 428,
+                "source": "T1138",
+                "target": "T1125"
+            },
+            {
+                "oldfrequency": 63,
+                "newoldfrequency": 67,
+                "source": "T1129",
+                "target": "T1117"
+            },
+            {
+                "oldfrequency": 2,
+                "newoldfrequency": 5,
+                "source": "TNM2",
+                "target": "T1117"
+            },
+            {
+                "oldfrequency": 43,
+                "newoldfrequency": 56,
+                "source": "TNM4",
+                "target": "TNM5"
+            },
+            {
+                "oldfrequency": 6,
+                "newoldfrequency": 6,
+                "source": "T560",
+                "target": "T651"
+            },
+            {
+                "oldfrequency": 147,
+                "newoldfrequency": 139,
+                "source": "T1126",
+                "target": "T1138"
+            },
+            {
+                "oldfrequency": 63,
+                "newoldfrequency": 317,
+                "source": "T883",
+                "target": "T883"
+            },
+            {
+                "oldfrequency": 492,
+                "newoldfrequency": 2510,
+                "source": "T1126",
+                "target": "T1135"
+            },
+            {
+                "oldfrequency": 1,
+                "newoldfrequency": 1,
+                "source": "T693",
+                "target": "T698"
+            },
+            {
+                "oldfrequency": 1,
+                "newoldfrequency": 1,
+                "source": "TNM18",
+                "target": "T560"
+            },
+            {
+                "oldfrequency": 1,
+                "newoldfrequency": 1,
+                "source": "T696",
+                "target": "T697"
+            },
+            {
+                "oldfrequency": 24,
+                "newoldfrequency": 49,
+                "source": "T1129",
+                "target": "T1123"
+            },
+            {
+                "oldfrequency": 2645,
+                "newoldfrequency": 2445,
+                "source": "T593",
+                "target": "T651"
+            },
+            {
+                "oldfrequency": 15,
+                "newoldfrequency": 13,
+                "source": "T590",
+                "target": "T639"
+            },
+            {
+                "oldfrequency": 59,
+                "newoldfrequency": 10,
+                "source": "T1124",
+                "target": "T1133"
+            },
+            {
+                "oldfrequency": 6,
+                "newoldfrequency": 6,
+                "source": "T877",
+                "target": "T878"
+            },
+            {
+                "oldfrequency": 6,
+                "newoldfrequency": 6,
+                "source": "T803",
+                "target": "T560"
+            },
+            {
+                "oldfrequency": 2,
+                "newoldfrequency": 4,
+                "source": "T119",
+                "target": "T1127"
+            },
+            {
+                "oldfrequency": 6,
+                "newoldfrequency": 6,
+                "source": "T726",
+                "target": "T560"
+            },
+            {
+                "oldfrequency": 1,
+                "newoldfrequency": 1,
+                "source": "T692",
+                "target": "T693"
+            },
+            {
+                "oldfrequency": 20,
+                "newoldfrequency": 3,
+                "source": "T883",
+                "target": "TNM1"
+            },
+            {
+                "oldfrequency": 6,
+                "newoldfrequency": 6,
+                "source": "T898",
+                "target": "T594"
+            },
+            {
+                "oldfrequency": 16,
+                "newoldfrequency": 2,
+                "source": "T1133",
+                "target": "T883"
+            },
+            {
+                "oldfrequency": 2971,
+                "newoldfrequency": 2769,
+                "source": "T1126",
+                "target": "T1125"
+            },
+            {
+                "oldfrequency": 2,
+                "newoldfrequency": 3,
+                "source": "T1117",
+                "target": "TNM16"
+            },
+            {
+                "oldfrequency": 5,
+                "newoldfrequency": 5,
+                "source": "T1117",
+                "target": "T1127"
+            },
+            {
+                "oldfrequency": 6,
+                "newoldfrequency": 6,
+                "source": "T10",
+                "target": "T596"
+            },
+            {
+                "oldfrequency": 215,
+                "newoldfrequency": 172,
+                "source": "TNM1",
+                "target": "T1138"
+            },
+            {
+                "oldfrequency": 1,
+                "newoldfrequency": 1,
+                "source": "TStart",
+                "target": "T694"
+            },
+            {
+                "oldfrequency": 664,
+                "newoldfrequency": 576,
+                "source": "T1126",
+                "target": "T1117"
+            },
+            {
+                "oldfrequency": 41,
+                "newoldfrequency": 56,
+                "source": "TNM8",
+                "target": "TNM3"
+            },
+            {
+                "oldfrequency": 6,
+                "newoldfrequency": 6,
+                "source": "T730",
+                "target": "T731"
+            },
+            {
+                "oldfrequency": 60,
+                "newoldfrequency": 64,
+                "source": "T1129",
+                "target": "T883"
+            },
+            {
+                "oldfrequency": 11,
+                "newoldfrequency": 58,
+                "source": "T119",
+                "target": "T1135"
+            },
+            {
+                "oldfrequency": 18,
+                "newoldfrequency": 18,
+                "source": "T708",
+                "target": "T709"
+            },
+            {
+                "oldfrequency": 1790,
+                "newoldfrequency": 1518,
+                "source": "T590",
+                "target": "T651"
+            },
+            {
+                "oldfrequency": 6,
+                "newoldfrequency": 6,
+                "source": "T721",
+                "target": "T722"
+            },
+            {
+                "oldfrequency": 44,
+                "newoldfrequency": 43,
+                "source": "T639",
+                "target": "T651"
+            },
+            {
+                "oldfrequency": 6,
+                "newoldfrequency": 12,
+                "source": "T1117",
+                "target": "T119"
+            },
+            {
+                "oldfrequency": 18,
+                "newoldfrequency": 18,
+                "source": "T560",
+                "target": "T710"
+            },
+            {
+                "oldfrequency": 1,
+                "newoldfrequency": 1,
+                "source": "TNM10",
+                "target": "TNM18"
+            },
+            {
+                "oldfrequency": 39,
+                "newoldfrequency": 55,
+                "source": "TNM3",
+                "target": "TNM6"
+            },
+            {
+                "oldfrequency": 5,
+                "newoldfrequency": 5,
+                "source": "T718",
+                "target": "T560"
+            },
+            {
+                "oldfrequency": 8,
+                "newoldfrequency": 8,
+                "source": "T1129",
+                "target": "TNM14"
+            },
+            {
+                "oldfrequency": 8,
+                "newoldfrequency": 8,
+                "source": "T1123",
+                "target": "TNM14"
+            },
+            {
+                "oldfrequency": 3,
+                "newoldfrequency": 2,
+                "source": "T593",
+                "target": "T638"
+            },
+            {
+                "oldfrequency": 3,
+                "newoldfrequency": 1,
+                "source": "T1127",
+                "target": "T1123"
+            },
+            {
+                "oldfrequency": 4,
+                "newoldfrequency": 2,
+                "source": "T883",
+                "target": "TNM16"
+            },
+            {
+                "oldfrequency": 38,
+                "newoldfrequency": 266,
+                "source": "T1129",
+                "target": "T1135"
+            },
+            {
+                "oldfrequency": 28,
+                "newoldfrequency": 20,
+                "source": "T119",
+                "target": "T883"
+            },
+            {
+                "oldfrequency": 5,
+                "newoldfrequency": 4,
+                "source": "TNM16",
+                "target": "TNM13"
+            },
+            {
+                "oldfrequency": 2,
+                "newoldfrequency": 2,
+                "source": "T560",
+                "target": "T593"
+            },
+            {
+                "oldfrequency": 13,
+                "newoldfrequency": 10,
+                "source": "T1129",
+                "target": "T1138"
+            },
+            {
+                "oldfrequency": 2,
+                "newoldfrequency": 2,
+                "source": "T1125",
+                "target": "T1117"
+            },
+            {
+                "oldfrequency": 110,
+                "newoldfrequency": 110,
+                "source": "T119",
+                "target": "TNM1"
+            },
+            {
+                "oldfrequency": 6,
+                "newoldfrequency": 6,
+                "source": "T709",
+                "target": "T804"
+            },
+            {
+                "oldfrequency": 7,
+                "newoldfrequency": 6,
+                "source": "T592",
+                "target": "T592"
+            },
+            {
+                "oldfrequency": 270,
+                "newoldfrequency": 300,
+                "source": "T883",
+                "target": "T1115"
+            },
+            {
+                "oldfrequency": 35,
+                "newoldfrequency": 43,
+                "source": "T1126",
+                "target": "T10"
+            },
+            {
+                "oldfrequency": 1,
+                "newoldfrequency": 1,
+                "source": "TNM9",
+                "target": "T1129"
+            },
+            {
+                "oldfrequency": 6,
+                "newoldfrequency": 6,
+                "source": "T770",
+                "target": "T590"
+            },
+            {
+                "oldfrequency": 1,
+                "newoldfrequency": 4,
+                "source": "TNM9",
+                "target": "T883"
+            },
+            {
+                "oldfrequency": 1,
+                "newoldfrequency": 2,
+                "source": "T1126",
+                "target": "TNM15"
+            },
+            {
+                "oldfrequency": 40,
+                "newoldfrequency": 1,
+                "source": "T1133",
+                "target": "T1124"
+            },
+            {
+                "oldfrequency": 6,
+                "newoldfrequency": 6,
+                "source": "T723",
+                "target": "T724"
+            },
+            {
+                "oldfrequency": 106,
+                "newoldfrequency": 103,
+                "source": "TNM14",
+                "target": "T1138"
+            },
+            {
+                "oldfrequency": 1,
+                "newoldfrequency": 1,
+                "source": "TNM2",
+                "target": "TNM6"
+            },
+            {
+                "oldfrequency": 6,
+                "newoldfrequency": 6,
+                "source": "TNM10",
+                "target": "T560"
+            },
+            {
+                "oldfrequency": 5,
+                "newoldfrequency": 7,
+                "source": "T1129",
+                "target": "T1127"
+            },
+            {
+                "oldfrequency": 1,
+                "newoldfrequency": 1,
+                "source": "TNM3",
+                "target": "TNM3"
+            },
+            {
+                "oldfrequency": 3,
+                "newoldfrequency": 1,
+                "source": "TNM2",
+                "target": "T1125"
+            },
+            {
+                "oldfrequency": 6,
+                "newoldfrequency": 6,
+                "source": "T729",
+                "target": "T893"
+            },
+            {
+                "oldfrequency": 9,
+                "newoldfrequency": 8,
+                "source": "T1117",
+                "target": "T1129"
+            },
+            {
+                "oldfrequency": 27949,
+                "newoldfrequency": 46743,
+                "source": "T1123",
+                "target": "T1123"
+            },
+            {
+                "oldfrequency": 174,
+                "newoldfrequency": 157,
+                "source": "T1127",
+                "target": "T1125"
+            },
+            {
+                "oldfrequency": 3,
+                "newoldfrequency": 2,
+                "source": "T1138",
+                "target": "T1124"
+            },
+            {
+                "oldfrequency": 1,
+                "newoldfrequency": 1,
+                "source": "T1119",
+                "target": "T1125"
+            },
+            {
+                "oldfrequency": 1,
+                "newoldfrequency": 1,
+                "source": "T703",
+                "target": "TNM10"
+            },
+            {
+                "oldfrequency": 28,
+                "newoldfrequency": 17,
+                "source": "T1126",
+                "target": "TNM1"
+            },
+            {
+                "oldfrequency": 5,
+                "newoldfrequency": 5,
+                "source": "T725",
+                "target": "T726"
+            },
+            {
+                "oldfrequency": 6,
+                "newoldfrequency": 6,
+                "source": "T893",
+                "target": "T894"
+            },
+            {
+                "oldfrequency": 3,
+                "newoldfrequency": 1,
+                "source": "T883",
+                "target": "T1128"
+            },
+            {
+                "oldfrequency": 16,
+                "newoldfrequency": 12,
+                "source": "T119",
+                "target": "T1117"
+            },
+            {
+                "oldfrequency": 1,
+                "newoldfrequency": 1,
+                "source": "T702",
+                "target": "T703"
+            },
+            {
+                "oldfrequency": 3,
+                "newoldfrequency": 5,
+                "source": "T891",
+                "target": "T1123"
+            },
+            {
+                "oldfrequency": 4,
+                "newoldfrequency": 4,
+                "source": "T1126",
+                "target": "T879"
+            },
+            {
+                "oldfrequency": 575,
+                "newoldfrequency": 413,
+                "source": "T1117",
+                "target": "T883"
+            },
+            {
+                "oldfrequency": 1,
+                "newoldfrequency": 1,
+                "source": "T10",
+                "target": "T692"
+            },
+            {
+                "oldfrequency": 1675,
+                "newoldfrequency": 2601,
+                "source": "T1123",
+                "target": "T883"
+            },
+            {
+                "oldfrequency": 3,
+                "newoldfrequency": 3,
+                "source": "T590",
+                "target": "T638"
+            },
+            {
+                "oldfrequency": 42,
+                "newoldfrequency": 56,
+                "source": "TNM5",
+                "target": "TNM2"
+            },
+            {
+                "oldfrequency": 5,
+                "newoldfrequency": 5,
+                "source": "T10",
+                "target": "T718"
+            },
+            {
+                "oldfrequency": 12,
+                "newoldfrequency": 7,
+                "source": "T883",
+                "target": "T10"
+            },
+            {
+                "oldfrequency": 92,
+                "newoldfrequency": 71,
+                "source": "T1138",
+                "target": "T1123"
+            },
+            {
+                "oldfrequency": 9818,
+                "newoldfrequency": 9818,
+                "source": "TNM0",
+                "target": "TNM0"
+            },
+            {
+                "oldfrequency": 6,
+                "newoldfrequency": 6,
+                "source": "T800",
+                "target": "T801"
+            },
+            {
+                "oldfrequency": 8,
+                "newoldfrequency": 5,
+                "source": "T1126",
+                "target": "T1126"
+            },
+            {
+                "oldfrequency": 6,
+                "newoldfrequency": 6,
+                "source": "T799",
+                "target": "T800"
+            },
+            {
+                "oldfrequency": 6,
+                "newoldfrequency": 6,
+                "source": "T1117",
+                "target": "T1119"
+            },
+            {
+                "oldfrequency": 207,
+                "newoldfrequency": 199,
+                "source": "T259",
+                "target": "T590"
+            },
+            {
+                "oldfrequency": 6,
+                "newoldfrequency": 6,
+                "source": "T795",
+                "target": "T796"
+            },
+            {
+                "oldfrequency": 6,
+                "newoldfrequency": 6,
+                "source": "T798",
+                "target": "T799"
+            },
+            {
+                "oldfrequency": 5,
+                "newoldfrequency": 3,
+                "source": "T883",
+                "target": "TNM11"
+            },
+            {
+                "oldfrequency": 6,
+                "newoldfrequency": 6,
+                "source": "TNM10",
+                "target": "T721"
+            },
+            {
+                "oldfrequency": 6,
+                "newoldfrequency": 6,
+                "source": "T10",
+                "target": "T729"
+            },
+            {
+                "oldfrequency": 63,
+                "newoldfrequency": 52,
+                "source": "T119",
+                "target": "T1125"
+            }
+        ]
+    },
+    "nodes": {
+        "added": [
+            {
+                "frequency": 77,
+                "id": "T870"
+            },
+            {
+                "frequency": 66,
+                "id": "T1121"
+            },
+            {
+                "frequency": 6,
+                "id": "T889"
+            },
+            {
+                "frequency": 50,
+                "id": "T890"
+            },
+            {
+                "frequency": 602,
+                "id": "TNS3"
+            },
+            {
+                "frequency": 602,
+                "id": "TNS2"
+            },
+            {
+                "frequency": 602,
+                "id": "TNS1"
+            },
+            {
+                "frequency": 1806,
+                "id": "TNS0"
+            },
+            {
+                "frequency": 602,
+                "id": "TNS5"
+            },
+            {
+                "frequency": 602,
+                "id": "TNS4"
+            },
+            {
+                "frequency": 3,
+                "id": "T869"
+            },
+            {
+                "frequency": 381,
+                "id": "T1112"
+            }
+        ],
+        "deleted": [
+            {
+                "frequency": 6,
+                "id": "T892"
+            },
+            {
+                "frequency": 277,
+                "id": "T1103"
+            },
+            {
+                "frequency": 277,
+                "id": "T1107"
+            },
+            {
+                "frequency": 277,
+                "id": "T1106"
+            },
+            {
+                "frequency": 277,
+                "id": "T1105"
+            },
+            {
+                "frequency": 277,
+                "id": "T1104"
+            },
+            {
+                "frequency": 637,
+                "id": "T1109"
+            },
+            {
+                "frequency": 277,
+                "id": "T1108"
+            },
+            {
+                "frequency": 1,
+                "id": "TNM19"
+            },
+            {
+                "frequency": 66,
+                "id": "T1111"
+            }
+        ],
+        "unchanged": [
+            {
+                "frequency": 6,
+                "id": "T877",
+                "oldfrequency": 6
+            },
+            {
+                "frequency": 18,
+                "id": "T710",
+                "oldfrequency": 18
+            },
+            {
+                "frequency": 6,
+                "id": "T879",
+                "oldfrequency": 6
+            },
+            {
+                "frequency": 6,
+                "id": "T878",
+                "oldfrequency": 6
+            },
+            {
+                "frequency": 233,
+                "id": "T259",
+                "oldfrequency": 221
+            },
+            {
+                "frequency": 1,
+                "id": "TEnd",
+                "oldfrequency": 1
+            },
+            {
+                "frequency": 64,
+                "id": "T258",
+                "oldfrequency": 59
+            },
+            {
+                "frequency": 6,
+                "id": "T800",
+                "oldfrequency": 6
+            },
+            {
+                "frequency": 6655,
+                "id": "T1125",
+                "oldfrequency": 9006
+            },
+            {
+                "frequency": 6,
+                "id": "T803",
+                "oldfrequency": 6
+            },
+            {
+                "frequency": 1,
+                "id": "T703",
+                "oldfrequency": 1
+            },
+            {
+                "frequency": 1,
+                "id": "T702",
+                "oldfrequency": 1
+            },
+            {
+                "frequency": 43,
+                "id": "TNM4",
+                "oldfrequency": 57
+            },
+            {
+                "frequency": 16701,
+                "id": "T718",
+                "oldfrequency": 13975
+            },
+            {
+                "frequency": 43,
+                "id": "TNM7",
+                "oldfrequency": 57
+            },
+            {
+                "frequency": 18,
+                "id": "T709",
+                "oldfrequency": 18
+            },
+            {
+                "frequency": 18,
+                "id": "T708",
+                "oldfrequency": 18
+            },
+            {
+                "frequency": 6655,
+                "id": "T1126",
+                "oldfrequency": 9006
+            },
+            {
+                "frequency": 9821,
+                "id": "TNM0",
+                "oldfrequency": 9821
+            },
+            {
+                "frequency": 43,
+                "id": "TNM5",
+                "oldfrequency": 57
+            },
+            {
+                "frequency": 60,
+                "id": "T1124",
+                "oldfrequency": 10
+            },
+            {
+                "frequency": 177,
+                "id": "T1127",
+                "oldfrequency": 158
+            },
+            {
+                "frequency": 43,
+                "id": "TNM6",
+                "oldfrequency": 57
+            },
+            {
+                "frequency": 215,
+                "id": "TNM1",
+                "oldfrequency": 172
+            },
+            {
+                "frequency": 30233,
+                "id": "T1123",
+                "oldfrequency": 50039
+            },
+            {
+                "frequency": 43,
+                "id": "TNM3",
+                "oldfrequency": 57
+            },
+            {
+                "frequency": 43,
+                "id": "TNM2",
+                "oldfrequency": 57
+            },
+            {
+                "frequency": 6,
+                "id": "T880",
+                "oldfrequency": 6
+            },
+            {
+                "frequency": 3299,
+                "id": "T883",
+                "oldfrequency": 4291
+            },
+            {
+                "frequency": 26,
+                "id": "TNM9",
+                "oldfrequency": 29
+            },
+            {
+                "frequency": 8,
+                "id": "T1128",
+                "oldfrequency": 8
+            },
+            {
+                "frequency": 68,
+                "id": "T560",
+                "oldfrequency": 68
+            },
+            {
+                "frequency": 6,
+                "id": "T798",
+                "oldfrequency": 6
+            },
+            {
+                "frequency": 6,
+                "id": "T799",
+                "oldfrequency": 6
+            },
+            {
+                "frequency": 6,
+                "id": "T795",
+                "oldfrequency": 6
+            },
+            {
+                "frequency": 6,
+                "id": "T796",
+                "oldfrequency": 6
+            },
+            {
+                "frequency": 6,
+                "id": "T797",
+                "oldfrequency": 6
+            },
+            {
+                "frequency": 6,
+                "id": "T730",
+                "oldfrequency": 6
+            },
+            {
+                "frequency": 6,
+                "id": "T731",
+                "oldfrequency": 6
+            },
+            {
+                "frequency": 499,
+                "id": "T1129",
+                "oldfrequency": 813
+            },
+            {
+                "frequency": 43,
+                "id": "TNM8",
+                "oldfrequency": 57
+            },
+            {
+                "frequency": 91,
+                "id": "T10",
+                "oldfrequency": 91
+            },
+            {
+                "frequency": 832,
+                "id": "T1135",
+                "oldfrequency": 3877
+            },
+            {
+                "frequency": 60,
+                "id": "T1133",
+                "oldfrequency": 10
+            },
+            {
+                "frequency": 2,
+                "id": "T1131",
+                "oldfrequency": 640
+            },
+            {
+                "frequency": 6,
+                "id": "T893",
+                "oldfrequency": 6
+            },
+            {
+                "frequency": 98,
+                "id": "T891",
+                "oldfrequency": 50
+            },
+            {
+                "frequency": 554,
+                "id": "T1138",
+                "oldfrequency": 502
+            },
+            {
+                "frequency": 6,
+                "id": "T894",
+                "oldfrequency": 6
+            },
+            {
+                "frequency": 4756,
+                "id": "T651",
+                "oldfrequency": 4197
+            },
+            {
+                "frequency": 7,
+                "id": "T553",
+                "oldfrequency": 6
+            },
+            {
+                "frequency": 6,
+                "id": "T729",
+                "oldfrequency": 6
+            },
+            {
+                "frequency": 5,
+                "id": "T725",
+                "oldfrequency": 5
+            },
+            {
+                "frequency": 6,
+                "id": "T724",
+                "oldfrequency": 6
+            },
+            {
+                "frequency": 6,
+                "id": "T726",
+                "oldfrequency": 6
+            },
+            {
+                "frequency": 6,
+                "id": "T721",
+                "oldfrequency": 6
+            },
+            {
+                "frequency": 6,
+                "id": "T723",
+                "oldfrequency": 6
+            },
+            {
+                "frequency": 6,
+                "id": "T722",
+                "oldfrequency": 6
+            },
+            {
+                "frequency": 2,
+                "id": "TNM15",
+                "oldfrequency": 2
+            },
+            {
+                "frequency": 106,
+                "id": "TNM14",
+                "oldfrequency": 105
+            },
+            {
+                "frequency": 1,
+                "id": "TNM17",
+                "oldfrequency": 1
+            },
+            {
+                "frequency": 20,
+                "id": "TNM16",
+                "oldfrequency": 19
+            },
+            {
+                "frequency": 13,
+                "id": "TNM11",
+                "oldfrequency": 12
+            },
+            {
+                "frequency": 25,
+                "id": "TNM10",
+                "oldfrequency": 25
+            },
+            {
+                "frequency": 5,
+                "id": "TNM13",
+                "oldfrequency": 4
+            },
+            {
+                "frequency": 1,
+                "id": "TNM18",
+                "oldfrequency": 1
+            },
+            {
+                "frequency": 6,
+                "id": "T1119",
+                "oldfrequency": 6
+            },
+            {
+                "frequency": 277,
+                "id": "T1115",
+                "oldfrequency": 602
+            },
+            {
+                "frequency": 793,
+                "id": "T1117",
+                "oldfrequency": 703
+            },
+            {
+                "frequency": 44,
+                "id": "T639",
+                "oldfrequency": 43
+            },
+            {
+                "frequency": 6,
+                "id": "T638",
+                "oldfrequency": 5
+            },
+            {
+                "frequency": 1,
+                "id": "T693",
+                "oldfrequency": 1
+            },
+            {
+                "frequency": 1,
+                "id": "T692",
+                "oldfrequency": 1
+            },
+            {
+                "frequency": 1,
+                "id": "T695",
+                "oldfrequency": 1
+            },
+            {
+                "frequency": 1,
+                "id": "T694",
+                "oldfrequency": 1
+            },
+            {
+                "frequency": 1,
+                "id": "T697",
+                "oldfrequency": 1
+            },
+            {
+                "frequency": 1,
+                "id": "T696",
+                "oldfrequency": 1
+            },
+            {
+                "frequency": 1,
+                "id": "T699",
+                "oldfrequency": 1
+            },
+            {
+                "frequency": 1,
+                "id": "T698",
+                "oldfrequency": 1
+            },
+            {
+                "frequency": 83,
+                "id": "T592",
+                "oldfrequency": 68
+            },
+            {
+                "frequency": 2676,
+                "id": "T593",
+                "oldfrequency": 2475
+            },
+            {
+                "frequency": 4756,
+                "id": "T590",
+                "oldfrequency": 4197
+            },
+            {
+                "frequency": 6,
+                "id": "T596",
+                "oldfrequency": 6
+            },
+            {
+                "frequency": 6,
+                "id": "T594",
+                "oldfrequency": 6
+            },
+            {
+                "frequency": 6,
+                "id": "T595",
+                "oldfrequency": 6
+            },
+            {
+                "frequency": 260,
+                "id": "T119",
+                "oldfrequency": 291
+            },
+            {
+                "frequency": 6,
+                "id": "T801",
+                "oldfrequency": 6
+            },
+            {
+                "frequency": 6,
+                "id": "T804",
+                "oldfrequency": 6
+            },
+            {
+                "frequency": 87,
+                "id": "T587",
+                "oldfrequency": 77
+            },
+            {
+                "frequency": 930,
+                "id": "T586",
+                "oldfrequency": 3957
+            },
+            {
+                "frequency": 22,
+                "id": "T260",
+                "oldfrequency": 18
+            },
+            {
+                "frequency": 1,
+                "id": "TStart",
+                "oldfrequency": 1
+            },
+            {
+                "frequency": 6,
+                "id": "T898",
+                "oldfrequency": 6
+            },
+            {
+                "frequency": 6,
+                "id": "T770",
+                "oldfrequency": 6
+            }
+        ]
+    },
+    "vicinity": {
+        "T10": {
+            "added": [
+                [
+                    "T870",
+                    -1,
+                    8
+                ],
+                [
+                    "T869",
+                    -1,
+                    1
+                ],
+                [
+                    "T1117",
+                    -1,
+                    1
+                ],
+                [
+                    "T1129",
+                    -1,
+                    1
+                ]
+            ],
+            "deleted": [
+                [
+                    "T891",
+                    9,
+                    -1
+                ],
+                [
+                    "T883",
+                    1,
+                    -1
+                ]
+            ],
+            "unchanged": [
+                [
+                    "T560",
+                    1,
+                    1
+                ],
+                [
+                    "T10",
+                    6,
+                    6
+                ],
+                [
+                    "T1125",
+                    1,
+                    1
+                ],
+                [
+                    "T1135",
+                    49,
+                    48
+                ],
+                [
+                    "T730",
+                    6,
+                    6
+                ],
+                [
+                    "T596",
+                    6,
+                    6
+                ],
+                [
+                    "T692",
+                    1,
+                    1
+                ],
+                [
+                    "T718",
+                    5,
+                    5
+                ],
+                [
+                    "T729",
+                    6,
+                    6
+                ]
+            ]
+        },
+        "T1115": {
+            "added": [
+                [
+                    "TNS3",
+                    -1,
+                    601
+                ],
+                [
+                    "T1123",
+                    -1,
+                    1
+                ]
+            ],
+            "deleted": [
+                [
+                    "T1103",
+                    277,
+                    -1
+                ]
+            ]
+        },
+        "T1117": {
+            "added": [
+                [
+                    "T870",
+                    -1,
+                    2
+                ],
+                [
+                    "TNM1",
+                    -1,
+                    3
+                ],
+                [
+                    "T1112",
+                    -1,
+                    12
+                ]
+            ],
+            "deleted": [
+                [
+                    "T1128",
+                    1,
+                    -1
+                ],
+                [
+                    "T891",
+                    3,
+                    -1
+                ]
+            ],
+            "unchanged": [
+                [
+                    "T1125",
+                    135,
+                    126
+                ],
+                [
+                    "T10",
+                    6,
+                    4
+                ],
+                [
+                    "T1126",
+                    2,
+                    2
+                ],
+                [
+                    "T1138",
+                    7,
+                    10
+                ],
+                [
+                    "T560",
+                    6,
+                    6
+                ],
+                [
+                    "T1135",
+                    29,
+                    89
+                ],
+                [
+                    "TNM14",
+                    1,
+                    2
+                ],
+                [
+                    "TNM16",
+                    2,
+                    3
+                ],
+                [
+                    "T1127",
+                    5,
+                    5
+                ],
+                [
+                    "T119",
+                    6,
+                    12
+                ],
+                [
+                    "T1129",
+                    9,
+                    8
+                ],
+                [
+                    "T883",
+                    575,
+                    413
+                ],
+                [
+                    "T1119",
+                    6,
+                    6
+                ]
+            ]
+        },
+        "T1119": {
+            "added": [
+                [
+                    "T1135",
+                    -1,
+                    1
+                ]
+            ],
+            "unchanged": [
+                [
+                    "T883",
+                    5,
+                    4
+                ],
+                [
+                    "T1125",
+                    1,
+                    1
+                ]
+            ]
+        },
+        "T1123": {
+            "added": [
+                [
+                    "TNS3",
+                    -1,
+                    1
+                ],
+                [
+                    "T898",
+                    -1,
+                    5
+                ],
+                [
+                    "T1129",
+                    -1,
+                    1
+                ],
+                [
+                    "T1112",
+                    -1,
+                    10
+                ],
+                [
+                    "T870",
+                    -1,
+                    1
+                ],
+                [
+                    "T1131",
+                    -1,
+                    1
+                ]
+            ],
+            "deleted": [
+                [
+                    "T1127",
+                    2,
+                    -1
+                ]
+            ],
+            "unchanged": [
+                [
+                    "T1115",
+                    2,
+                    1
+                ],
+                [
+                    "T119",
+                    19,
+                    7
+                ],
+                [
+                    "T1135",
+                    23,
+                    96
+                ],
+                [
+                    "T1138",
+                    15,
+                    18
+                ],
+                [
+                    "TNM1",
+                    51,
+                    39
+                ],
+                [
+                    "T1125",
+                    484,
+                    504
+                ],
+                [
+                    "T891",
+                    2,
+                    2
+                ],
+                [
+                    "T1126",
+                    3,
+                    1
+                ],
+                [
+                    "TNM14",
+                    8,
+                    8
+                ],
+                [
+                    "T1123",
+                    27949,
+                    46743
+                ],
+                [
+                    "T883",
+                    1675,
+                    2601
+                ]
+            ]
+        },
+        "T1124": {
+            "deleted": [
+                [
+                    "T1124",
+                    1,
+                    -1
+                ]
+            ],
+            "unchanged": [
+                [
+                    "T1133",
+                    59,
+                    10
+                ]
+            ]
+        },
+        "T1125": {
+            "added": [
+                [
+                    "T1112",
+                    -1,
+                    1
+                ],
+                [
+                    "T1135",
+                    -1,
+                    4
+                ],
+                [
+                    "T880",
+                    -1,
+                    1
+                ]
+            ],
+            "deleted": [
+                [
+                    "T1129",
+                    1,
+                    -1
+                ],
+                [
+                    "TNM7",
+                    2,
+                    -1
+                ],
+                [
+                    "TNM3",
+                    1,
+                    -1
+                ],
+                [
+                    "TNM6",
+                    1,
+                    -1
+                ],
+                [
+                    "T1111",
+                    4,
+                    -1
+                ]
+            ],
+            "unchanged": [
+                [
+                    "T1126",
+                    6632,
+                    8992
+                ],
+                [
+                    "T1123",
+                    3,
+                    1
+                ],
+                [
+                    "T883",
+                    1,
+                    2
+                ],
+                [
+                    "T1125",
+                    8,
+                    3
+                ],
+                [
+                    "T1117",
+                    2,
+                    2
+                ]
+            ]
+        },
+        "T1126": {
+            "added": [
+                [
+                    "T880",
+                    -1,
+                    2
+                ],
+                [
+                    "T870",
+                    -1,
+                    49
+                ],
+                [
+                    "T1131",
+                    -1,
+                    3
+                ],
+                [
+                    "T1112",
+                    -1,
+                    233
+                ],
+                [
+                    "T1121",
+                    -1,
+                    44
+                ],
+                [
+                    "T869",
+                    -1,
+                    2
+                ]
+            ],
+            "deleted": [
+                [
+                    "TNM8",
+                    1,
+                    -1
+                ],
+                [
+                    "T891",
+                    56,
+                    -1
+                ],
+                [
+                    "T1111",
+                    34,
+                    -1
+                ]
+            ],
+            "unchanged": [
+                [
+                    "T1124",
+                    4,
+                    3
+                ],
+                [
+                    "T1128",
+                    2,
+                    6
+                ],
+                [
+                    "TNM11",
+                    6,
+                    9
+                ],
+                [
+                    "TNM16",
+                    12,
+                    12
+                ],
+                [
+                    "T119",
+                    162,
+                    202
+                ],
+                [
+                    "TNM7",
+                    7,
+                    1
+                ],
+                [
+                    "T1129",
+                    445,
+                    763
+                ],
+                [
+                    "T883",
+                    869,
+                    860
+                ],
+                [
+                    "T1123",
+                    522,
+                    569
+                ],
+                [
+                    "TNM14",
+                    60,
+                    67
+                ],
+                [
+                    "T1127",
+                    125,
+                    116
+                ],
+                [
+                    "T1138",
+                    147,
+                    139
+                ],
+                [
+                    "T1135",
+                    492,
+                    2510
+                ],
+                [
+                    "T1125",
+                    2971,
+                    2769
+                ],
+                [
+                    "T1117",
+                    664,
+                    576
+                ],
+                [
+                    "T10",
+                    35,
+                    43
+                ],
+                [
+                    "TNM15",
+                    1,
+                    2
+                ],
+                [
+                    "TNM1",
+                    28,
+                    17
+                ],
+                [
+                    "T879",
+                    4,
+                    4
+                ],
+                [
+                    "T1126",
+                    8,
+                    5
+                ]
+            ]
+        },
+        "T1127": {
+            "unchanged": [
+                [
+                    "T1123",
+                    3,
+                    1
+                ],
+                [
+                    "T1125",
+                    174,
+                    157
+                ]
+            ]
+        },
+        "T1128": {
+            "unchanged": [
+                [
+                    "T1125",
+                    8,
+                    8
+                ]
+            ]
+        },
+        "T1129": {
+            "added": [
+                [
+                    "T1112",
+                    -1,
+                    25
+                ],
+                [
+                    "T870",
+                    -1,
+                    3
+                ]
+            ],
+            "deleted": [
+                [
+                    "T1124",
+                    1,
+                    -1
+                ],
+                [
+                    "TNM11",
+                    1,
+                    -1
+                ],
+                [
+                    "T1126",
+                    1,
+                    -1
+                ],
+                [
+                    "T1128",
+                    1,
+                    -1
+                ],
+                [
+                    "T891",
+                    4,
+                    -1
+                ],
+                [
+                    "TNM1",
+                    3,
+                    -1
+                ]
+            ],
+            "unchanged": [
+                [
+                    "T119",
+                    6,
+                    10
+                ],
+                [
+                    "T1125",
+                    261,
+                    291
+                ],
+                [
+                    "T10",
+                    6,
+                    3
+                ],
+                [
+                    "T1129",
+                    2,
+                    9
+                ],
+                [
+                    "TNM16",
+                    2,
+                    1
+                ],
+                [
+                    "T1117",
+                    63,
+                    67
+                ],
+                [
+                    "T1123",
+                    24,
+                    49
+                ],
+                [
+                    "T883",
+                    60,
+                    64
+                ],
+                [
+                    "TNM14",
+                    8,
+                    8
+                ],
+                [
+                    "T1135",
+                    38,
+                    266
+                ],
+                [
+                    "T1138",
+                    13,
+                    10
+                ],
+                [
+                    "T1127",
+                    5,
+                    7
+                ]
+            ]
+        },
+        "T1131": {
+            "added": [
+                [
+                    "T1123",
+                    -1,
+                    26
+                ],
+                [
+                    "T1124",
+                    -1,
+                    4
+                ]
+            ],
+            "unchanged": [
+                [
+                    "T1125",
+                    2,
+                    610
+                ]
+            ]
+        },
+        "T1133": {
+            "added": [
+                [
+                    "TNM14",
+                    -1,
+                    1
+                ],
+                [
+                    "T1112",
+                    -1,
+                    2
+                ]
+            ],
+            "deleted": [
+                [
+                    "T1133",
+                    1,
+                    -1
+                ],
+                [
+                    "T1129",
+                    1,
+                    -1
+                ]
+            ],
+            "unchanged": [
+                [
+                    "T1135",
+                    2,
+                    4
+                ],
+                [
+                    "T883",
+                    16,
+                    2
+                ],
+                [
+                    "T1124",
+                    40,
+                    1
+                ]
+            ]
+        },
+        "T1135": {
+            "added": [
+                [
+                    "T1135",
+                    -1,
+                    1
+                ],
+                [
+                    "T1126",
+                    -1,
+                    3
+                ],
+                [
+                    "T1112",
+                    -1,
+                    35
+                ],
+                [
+                    "T883",
+                    -1,
+                    3
+                ],
+                [
+                    "T1123",
+                    -1,
+                    1
+                ],
+                [
+                    "T1117",
+                    -1,
+                    1
+                ]
+            ],
+            "unchanged": [
+                [
+                    "T1125",
+                    830,
+                    3232
+                ],
+                [
+                    "T1131",
+                    2,
+                    601
+                ]
+            ]
+        },
+        "T1138": {
+            "added": [
+                [
+                    "T883",
+                    -1,
+                    1
+                ]
+            ],
+            "deleted": [
+                [
+                    "T1117",
+                    1,
+                    -1
+                ]
+            ],
+            "unchanged": [
+                [
+                    "T1125",
+                    458,
+                    428
+                ],
+                [
+                    "T1124",
+                    3,
+                    2
+                ],
+                [
+                    "T1123",
+                    92,
+                    71
+                ]
+            ]
+        },
+        "T119": {
+            "added": [
+                [
+                    "T1129",
+                    -1,
+                    5
+                ],
+                [
+                    "T870",
+                    -1,
+                    1
+                ],
+                [
+                    "TNM16",
+                    -1,
+                    1
+                ],
+                [
+                    "T1112",
+                    -1,
+                    5
+                ]
+            ],
+            "deleted": [
+                [
+                    "TNM11",
+                    1,
+                    -1
+                ]
+            ],
+            "unchanged": [
+                [
+                    "TNM14",
+                    3,
+                    2
+                ],
+                [
+                    "T1138",
+                    3,
+                    8
+                ],
+                [
+                    "T119",
+                    8,
+                    8
+                ],
+                [
+                    "T1123",
+                    15,
+                    5
+                ],
+                [
+                    "T1127",
+                    2,
+                    4
+                ],
+                [
+                    "T1135",
+                    11,
+                    58
+                ],
+                [
+                    "T883",
+                    28,
+                    20
+                ],
+                [
+                    "TNM1",
+                    110,
+                    110
+                ],
+                [
+                    "T1117",
+                    16,
+                    12
+                ],
+                [
+                    "T1125",
+                    63,
+                    52
+                ]
+            ]
+        },
+        "T258": {
+            "unchanged": [
+                [
+                    "T587",
+                    64,
+                    59
+                ]
+            ]
+        },
+        "T259": {
+            "unchanged": [
+                [
+                    "TNM0",
+                    3,
+                    3
+                ],
+                [
+                    "TNM17",
+                    1,
+                    1
+                ],
+                [
+                    "T260",
+                    22,
+                    18
+                ],
+                [
+                    "T590",
+                    207,
+                    199
+                ]
+            ]
+        },
+        "T260": {
+            "unchanged": [
+                [
+                    "T587",
+                    22,
+                    18
+                ]
+            ]
+        },
+        "T553": {
+            "deleted": [
+                [
+                    "T553",
+                    1,
+                    -1
+                ]
+            ],
+            "unchanged": [
+                [
+                    "T10",
+                    1,
+                    2
+                ],
+                [
+                    "T1125",
+                    5,
+                    4
+                ]
+            ]
+        },
+        "T560": {
+            "added": [
+                [
+                    "T1121",
+                    -1,
+                    6
+                ]
+            ],
+            "deleted": [
+                [
+                    "T1111",
+                    6,
+                    -1
+                ]
+            ],
+            "unchanged": [
+                [
+                    "T586",
+                    1,
+                    1
+                ],
+                [
+                    "T560",
+                    22,
+                    22
+                ],
+                [
+                    "T10",
+                    13,
+                    13
+                ],
+                [
+                    "T651",
+                    6,
+                    6
+                ],
+                [
+                    "T710",
+                    18,
+                    18
+                ],
+                [
+                    "T593",
+                    2,
+                    2
+                ]
+            ]
+        },
+        "T586": {
+            "added": [
+                [
+                    "T560",
+                    -1,
+                    1
+                ]
+            ],
+            "unchanged": [
+                [
+                    "T593",
+                    297,
+                    229
+                ],
+                [
+                    "T586",
+                    370,
+                    3548
+                ],
+                [
+                    "T651",
+                    240,
+                    164
+                ],
+                [
+                    "T639",
+                    4,
+                    4
+                ],
+                [
+                    "T592",
+                    19,
+                    11
+                ]
+            ]
+        },
+        "T587": {
+            "unchanged": [
+                [
+                    "T590",
+                    87,
+                    77
+                ]
+            ]
+        },
+        "T590": {
+            "unchanged": [
+                [
+                    "T592",
+                    57,
+                    51
+                ],
+                [
+                    "T593",
+                    2337,
+                    2207
+                ],
+                [
+                    "T560",
+                    6,
+                    6
+                ],
+                [
+                    "T586",
+                    548,
+                    399
+                ],
+                [
+                    "T639",
+                    15,
+                    13
+                ],
+                [
+                    "T651",
+                    1790,
+                    1518
+                ],
+                [
+                    "T638",
+                    3,
+                    3
+                ]
+            ]
+        },
+        "T592": {
+            "unchanged": [
+                [
+                    "T593",
+                    40,
+                    37
+                ],
+                [
+                    "T586",
+                    11,
+                    9
+                ],
+                [
+                    "T651",
+                    25,
+                    16
+                ],
+                [
+                    "T592",
+                    7,
+                    6
+                ]
+            ]
+        },
+        "T593": {
+            "unchanged": [
+                [
+                    "T639",
+                    25,
+                    26
+                ],
+                [
+                    "T560",
+                    3,
+                    2
+                ],
+                [
+                    "T651",
+                    2645,
+                    2445
+                ],
+                [
+                    "T638",
+                    3,
+                    2
+                ]
+            ]
+        },
+        "T594": {
+            "unchanged": [
+                [
+                    "T595",
+                    6,
+                    6
+                ]
+            ]
+        },
+        "T595": {
+            "unchanged": [
+                [
+                    "TNM10",
+                    6,
+                    6
+                ]
+            ]
+        },
+        "T596": {
+            "unchanged": [
+                [
+                    "TNM10",
+                    6,
+                    6
+                ]
+            ]
+        },
+        "T638": {
+            "unchanged": [
+                [
+                    "T651",
+                    6,
+                    5
+                ]
+            ]
+        },
+        "T639": {
+            "unchanged": [
+                [
+                    "T651",
+                    44,
+                    43
+                ]
+            ]
+        },
+        "T651": {
+            "deleted": [
+                [
+                    "TNM19",
+                    1,
+                    -1
+                ]
+            ],
+            "unchanged": [
+                [
+                    "T590",
+                    4452,
+                    3911
+                ],
+                [
+                    "T259",
+                    233,
+                    221
+                ],
+                [
+                    "T770",
+                    6,
+                    6
+                ],
+                [
+                    "T258",
+                    64,
+                    59
+                ]
+            ]
+        },
+        "T692": {
+            "unchanged": [
+                [
+                    "T693",
+                    1,
+                    1
+                ]
+            ]
+        },
+        "T693": {
+            "unchanged": [
+                [
+                    "T698",
+                    1,
+                    1
+                ]
+            ]
+        },
+        "T694": {
+            "unchanged": [
+                [
+                    "T695",
+                    1,
+                    1
+                ]
+            ]
+        },
+        "T695": {
+            "unchanged": [
+                [
+                    "T696",
+                    1,
+                    1
+                ]
+            ]
+        },
+        "T696": {
+            "unchanged": [
+                [
+                    "T697",
+                    1,
+                    1
+                ]
+            ]
+        },
+        "T697": {
+            "unchanged": [
+                [
+                    "TNM10",
+                    1,
+                    1
+                ]
+            ]
+        },
+        "T698": {
+            "unchanged": [
+                [
+                    "T699",
+                    1,
+                    1
+                ]
+            ]
+        },
+        "T699": {
+            "unchanged": [
+                [
+                    "T702",
+                    1,
+                    1
+                ]
+            ]
+        },
+        "T702": {
+            "unchanged": [
+                [
+                    "T703",
+                    1,
+                    1
+                ]
+            ]
+        },
+        "T703": {
+            "unchanged": [
+                [
+                    "TNM10",
+                    1,
+                    1
+                ]
+            ]
+        },
+        "T708": {
+            "unchanged": [
+                [
+                    "T709",
+                    18,
+                    18
+                ]
+            ]
+        },
+        "T709": {
+            "unchanged": [
+                [
+                    "T10",
+                    12,
+                    12
+                ],
+                [
+                    "T804",
+                    6,
+                    6
+                ]
+            ]
+        },
+        "T710": {
+            "unchanged": [
+                [
+                    "T708",
+                    18,
+                    18
+                ]
+            ]
+        },
+        "T718": {
+            "unchanged": [
+                [
+                    "T718",
+                    16696,
+                    13970
+                ],
+                [
+                    "T560",
+                    5,
+                    5
+                ]
+            ]
+        },
+        "T721": {
+            "unchanged": [
+                [
+                    "T722",
+                    6,
+                    6
+                ]
+            ]
+        },
+        "T722": {
+            "unchanged": [
+                [
+                    "T723",
+                    6,
+                    6
+                ]
+            ]
+        },
+        "T723": {
+            "unchanged": [
+                [
+                    "T724",
+                    6,
+                    6
+                ]
+            ]
+        },
+        "T724": {
+            "unchanged": [
+                [
+                    "T726",
+                    1,
+                    1
+                ],
+                [
+                    "T725",
+                    5,
+                    5
+                ]
+            ]
+        },
+        "T725": {
+            "unchanged": [
+                [
+                    "T726",
+                    5,
+                    5
+                ]
+            ]
+        },
+        "T726": {
+            "unchanged": [
+                [
+                    "T560",
+                    6,
+                    6
+                ]
+            ]
+        },
+        "T729": {
+            "unchanged": [
+                [
+                    "T893",
+                    6,
+                    6
+                ]
+            ]
+        },
+        "T730": {
+            "unchanged": [
+                [
+                    "T731",
+                    6,
+                    6
+                ]
+            ]
+        },
+        "T731": {
+            "unchanged": [
+                [
+                    "T560",
+                    6,
+                    6
+                ]
+            ]
+        },
+        "T770": {
+            "unchanged": [
+                [
+                    "T590",
+                    6,
+                    6
+                ]
+            ]
+        },
+        "T795": {
+            "unchanged": [
+                [
+                    "T796",
+                    6,
+                    6
+                ]
+            ]
+        },
+        "T796": {
+            "unchanged": [
+                [
+                    "T797",
+                    6,
+                    6
+                ]
+            ]
+        },
+        "T797": {
+            "unchanged": [
+                [
+                    "T798",
+                    6,
+                    6
+                ]
+            ]
+        },
+        "T798": {
+            "unchanged": [
+                [
+                    "T799",
+                    6,
+                    6
+                ]
+            ]
+        },
+        "T799": {
+            "unchanged": [
+                [
+                    "T800",
+                    6,
+                    6
+                ]
+            ]
+        },
+        "T800": {
+            "unchanged": [
+                [
+                    "T801",
+                    6,
+                    6
+                ]
+            ]
+        },
+        "T801": {
+            "unchanged": [
+                [
+                    "T803",
+                    6,
+                    6
+                ]
+            ]
+        },
+        "T803": {
+            "unchanged": [
+                [
+                    "T560",
+                    6,
+                    6
+                ]
+            ]
+        },
+        "T804": {
+            "unchanged": [
+                [
+                    "TNM10",
+                    5,
+                    5
+                ],
+                [
+                    "TEnd",
+                    1,
+                    1
+                ]
+            ]
+        },
+        "T877": {
+            "unchanged": [
+                [
+                    "T878",
+                    6,
+                    6
+                ]
+            ]
+        },
+        "T878": {
+            "unchanged": [
+                [
+                    "T1117",
+                    6,
+                    6
+                ]
+            ]
+        },
+        "T879": {
+            "added": [
+                [
+                    "T1125",
+                    -1,
+                    3
+                ]
+            ],
+            "unchanged": [
+                [
+                    "T880",
+                    6,
+                    3
+                ]
+            ]
+        },
+        "T880": {
+            "added": [
+                [
+                    "T1117",
+                    -1,
+                    1
+                ],
+                [
+                    "TNM7",
+                    -1,
+                    4
+                ],
+                [
+                    "T1126",
+                    -1,
+                    1
+                ]
+            ],
+            "deleted": [
+                [
+                    "T1125",
+                    6,
+                    -1
+                ]
+            ]
+        },
+        "T883": {
+            "added": [
+                [
+                    "T1131",
+                    -1,
+                    1
+                ],
+                [
+                    "T889",
+                    -1,
+                    5
+                ],
+                [
+                    "T870",
+                    -1,
+                    13
+                ],
+                [
+                    "T1112",
+                    -1,
+                    55
+                ]
+            ],
+            "deleted": [
+                [
+                    "TNM15",
+                    1,
+                    -1
+                ],
+                [
+                    "T892",
+                    6,
+                    -1
+                ],
+                [
+                    "T1124",
+                    11,
+                    -1
+                ],
+                [
+                    "T891",
+                    24,
+                    -1
+                ]
+            ],
+            "unchanged": [
+                [
+                    "T119",
+                    59,
+                    52
+                ],
+                [
+                    "T1135",
+                    184,
+                    452
+                ],
+                [
+                    "T1127",
+                    33,
+                    21
+                ],
+                [
+                    "TNM14",
+                    26,
+                    15
+                ],
+                [
+                    "T1138",
+                    48,
+                    39
+                ],
+                [
+                    "T1129",
+                    39,
+                    25
+                ],
+                [
+                    "T1126",
+                    1,
+                    2
+                ],
+                [
+                    "T1123",
+                    1358,
+                    2265
+                ],
+                [
+                    "T553",
+                    6,
+                    6
+                ],
+                [
+                    "T1117",
+                    32,
+                    31
+                ],
+                [
+                    "T1125",
+                    1094,
+                    676
+                ],
+                [
+                    "T883",
+                    63,
+                    317
+                ],
+                [
+                    "TNM1",
+                    20,
+                    3
+                ],
+                [
+                    "TNM16",
+                    4,
+                    2
+                ],
+                [
+                    "T1115",
+                    270,
+                    300
+                ],
+                [
+                    "T1128",
+                    3,
+                    1
+                ],
+                [
+                    "T10",
+                    12,
+                    7
+                ],
+                [
+                    "TNM11",
+                    5,
+                    3
+                ]
+            ]
+        },
+        "T891": {
+            "added": [
+                [
+                    "T890",
+                    -1,
+                    45
+                ]
+            ],
+            "deleted": [
+                [
+                    "T1125",
+                    95,
+                    -1
+                ]
+            ],
+            "unchanged": [
+                [
+                    "T1123",
+                    3,
+                    5
+                ]
+            ]
+        },
+        "T893": {
+            "unchanged": [
+                [
+                    "T894",
+                    6,
+                    6
+                ]
+            ]
+        },
+        "T894": {
+            "unchanged": [
+                [
+                    "TNM10",
+                    6,
+                    6
+                ]
+            ]
+        },
+        "T898": {
+            "unchanged": [
+                [
+                    "T594",
+                    6,
+                    6
+                ]
+            ]
+        },
+        "TNM0": {
+            "unchanged": [
+                [
+                    "T590",
+                    3,
+                    3
+                ],
+                [
+                    "TNM0",
+                    9818,
+                    9818
+                ]
+            ]
+        },
+        "TNM1": {
+            "unchanged": [
+                [
+                    "T1138",
+                    215,
+                    172
+                ]
+            ]
+        },
+        "TNM10": {
+            "added": [
+                [
+                    "T1121",
+                    -1,
+                    6
+                ]
+            ],
+            "deleted": [
+                [
+                    "T1111",
+                    6,
+                    -1
+                ]
+            ],
+            "unchanged": [
+                [
+                    "T795",
+                    6,
+                    6
+                ],
+                [
+                    "TNM18",
+                    1,
+                    1
+                ],
+                [
+                    "T560",
+                    6,
+                    6
+                ],
+                [
+                    "T721",
+                    6,
+                    6
+                ]
+            ]
+        },
+        "TNM11": {
+            "added": [
+                [
+                    "TNM14",
+                    -1,
+                    1
+                ],
+                [
+                    "T1135",
+                    -1,
+                    5
+                ],
+                [
+                    "T1112",
+                    -1,
+                    1
+                ]
+            ],
+            "deleted": [
+                [
+                    "T1129",
+                    1,
+                    -1
+                ],
+                [
+                    "T883",
+                    4,
+                    -1
+                ],
+                [
+                    "T1117",
+                    3,
+                    -1
+                ]
+            ],
+            "unchanged": [
+                [
+                    "T1125",
+                    5,
+                    5
+                ]
+            ]
+        },
+        "TNM13": {
+            "deleted": [
+                [
+                    "T883",
+                    1,
+                    -1
+                ]
+            ],
+            "unchanged": [
+                [
+                    "T1128",
+                    1,
+                    1
+                ],
+                [
+                    "T1125",
+                    1,
+                    2
+                ],
+                [
+                    "T1117",
+                    2,
+                    1
+                ]
+            ]
+        },
+        "TNM14": {
+            "added": [
+                [
+                    "T1112",
+                    -1,
+                    2
+                ]
+            ],
+            "unchanged": [
+                [
+                    "T1138",
+                    106,
+                    103
+                ]
+            ]
+        },
+        "TNM15": {
+            "unchanged": [
+                [
+                    "T1127",
+                    2,
+                    2
+                ]
+            ]
+        },
+        "TNM16": {
+            "unchanged": [
+                [
+                    "TNM9",
+                    15,
+                    15
+                ],
+                [
+                    "TNM13",
+                    5,
+                    4
+                ]
+            ]
+        },
+        "TNM17": {
+            "unchanged": [
+                [
+                    "T590",
+                    1,
+                    1
+                ]
+            ]
+        },
+        "TNM18": {
+            "unchanged": [
+                [
+                    "T560",
+                    1,
+                    1
+                ]
+            ]
+        },
+        "TNM2": {
+            "deleted": [
+                [
+                    "T1126",
+                    1,
+                    -1
+                ],
+                [
+                    "TNM4",
+                    1,
+                    -1
+                ],
+                [
+                    "T879",
+                    1,
+                    -1
+                ],
+                [
+                    "T1111",
+                    5,
+                    -1
+                ]
+            ],
+            "unchanged": [
+                [
+                    "TNM2",
+                    1,
+                    1
+                ],
+                [
+                    "TNM7",
+                    28,
+                    49
+                ],
+                [
+                    "T1117",
+                    2,
+                    5
+                ],
+                [
+                    "TNM6",
+                    1,
+                    1
+                ],
+                [
+                    "T1125",
+                    3,
+                    1
+                ]
+            ]
+        },
+        "TNM3": {
+            "added": [
+                [
+                    "TNM4",
+                    -1,
+                    1
+                ]
+            ],
+            "deleted": [
+                [
+                    "T1125",
+                    2,
+                    -1
+                ],
+                [
+                    "TNM7",
+                    1,
+                    -1
+                ]
+            ],
+            "unchanged": [
+                [
+                    "TNM6",
+                    39,
+                    55
+                ],
+                [
+                    "TNM3",
+                    1,
+                    1
+                ]
+            ]
+        },
+        "TNM4": {
+            "added": [
+                [
+                    "TNM6",
+                    -1,
+                    1
+                ]
+            ],
+            "unchanged": [
+                [
+                    "TNM5",
+                    43,
+                    56
+                ]
+            ]
+        },
+        "TNM5": {
+            "added": [
+                [
+                    "TNM5",
+                    -1,
+                    1
+                ]
+            ],
+            "deleted": [
+                [
+                    "TNM6",
+                    1,
+                    -1
+                ]
+            ],
+            "unchanged": [
+                [
+                    "TNM2",
+                    42,
+                    56
+                ]
+            ]
+        },
+        "TNM6": {
+            "added": [
+                [
+                    "TNM7",
+                    -1,
+                    1
+                ]
+            ],
+            "deleted": [
+                [
+                    "TNM6",
+                    1,
+                    -1
+                ],
+                [
+                    "T1126",
+                    1,
+                    -1
+                ]
+            ],
+            "unchanged": [
+                [
+                    "TNM4",
+                    41,
+                    56
+                ]
+            ]
+        },
+        "TNM7": {
+            "deleted": [
+                [
+                    "T1126",
+                    1,
+                    -1
+                ]
+            ],
+            "unchanged": [
+                [
+                    "TNM7",
+                    1,
+                    1
+                ],
+                [
+                    "TNM8",
+                    41,
+                    56
+                ]
+            ]
+        },
+        "TNM8": {
+            "deleted": [
+                [
+                    "T1125",
+                    1,
+                    -1
+                ]
+            ],
+            "unchanged": [
+                [
+                    "TNM8",
+                    1,
+                    1
+                ],
+                [
+                    "TNM3",
+                    41,
+                    56
+                ]
+            ]
+        },
+        "TNM9": {
+            "added": [
+                [
+                    "TNM14",
+                    -1,
+                    1
+                ],
+                [
+                    "T1138",
+                    -1,
+                    1
+                ]
+            ],
+            "deleted": [
+                [
+                    "T1117",
+                    2,
+                    -1
+                ]
+            ],
+            "unchanged": [
+                [
+                    "T1127",
+                    3,
+                    3
+                ],
+                [
+                    "TNM9",
+                    11,
+                    14
+                ],
+                [
+                    "T1125",
+                    4,
+                    4
+                ],
+                [
+                    "T1135",
+                    4,
+                    1
+                ],
+                [
+                    "T1129",
+                    1,
+                    1
+                ],
+                [
+                    "T883",
+                    1,
+                    4
+                ]
+            ]
+        },
+        "TStart": {
+            "unchanged": [
+                [
+                    "T694",
+                    1,
+                    1
+                ]
+            ]
+        }
+    }
+}

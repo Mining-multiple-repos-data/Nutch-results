@@ -1,0 +1,6 @@
+{"TemplateOriginalID": "T6", "TemplateFrequency": 2408, "TemplateOriginalFrequency": 602, "TemplateID": 0, "TemplateOriginalPattern": "<P> <P>", "TemplatePattern": "<P> "}
+{"TemplateOriginalID": "T2", "TemplateFrequency": 1204, "TemplateOriginalFrequency": 1204, "TemplateID": 1, "TemplateOriginalPattern": "crawlDelay = <P>", "TemplatePattern": "crawlDelay = <P>"}
+{"TemplateOriginalID": "T4", "TemplateFrequency": 1204, "TemplateOriginalFrequency": 1204, "TemplateID": 2, "TemplateOriginalPattern": "nextFetchTime = <P>", "TemplatePattern": "nextFetchTime = <P>"}
+{"TemplateOriginalID": "T0", "TemplateFrequency": 1204, "TemplateOriginalFrequency": 1204, "TemplateID": 3, "TemplateOriginalPattern": "maxThreads = <P>", "TemplatePattern": "maxThreads = <P>"}
+{"TemplateOriginalID": "T1", "TemplateFrequency": 1204, "TemplateOriginalFrequency": 1204, "TemplateID": 4, "TemplateOriginalPattern": "inProgress = <P>", "TemplatePattern": "inProgress = <P>"}
+{"TemplateOriginalID": "T3", "TemplateFrequency": 1204, "TemplateOriginalFrequency": 1204, "TemplateID": 5, "TemplateOriginalPattern": "minCrawlDelay = <P>", "TemplatePattern": "minCrawlDelay = <P>"}
