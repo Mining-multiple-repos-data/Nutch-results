@@ -26,4 +26,6 @@
 
 *EBM-diff.pdf* - Execution behavior model, a graphical representation where dashed corresponds to deleted in v2, double encircled/bold corresponds to added in v2, and grey(light) corresponds to graph common in v1 and v2
 
-*EBM-diff-annotated.pdf* - Execution behavior model diff is analyzed to associate the differences to the potential bug 
+*EBM-diff-annotated.pdf* - Execution behavior model differnce is annotated to highlight the potential bugs
+
+*ebmdiff.docx* - Execution behavior model differences are analyzed to detect the potential bugs
